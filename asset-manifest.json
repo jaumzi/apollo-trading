@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/apollo-trading/static/css/main.4472c161.css",
-    "main.js": "/apollo-trading/static/js/main.6075ee6b.js",
+    "main.css": "/apollo-trading/static/css/main.df1e538f.css",
+    "main.js": "/apollo-trading/static/js/main.de11e078.js",
     "static/js/206.47f6cfd0.chunk.js": "/apollo-trading/static/js/206.47f6cfd0.chunk.js",
-    "static/css/789.ad2cddc3.chunk.css": "/apollo-trading/static/css/789.ad2cddc3.chunk.css",
-    "static/js/789.86162dc1.chunk.js": "/apollo-trading/static/js/789.86162dc1.chunk.js",
+    "static/css/789.d43f5cb6.chunk.css": "/apollo-trading/static/css/789.d43f5cb6.chunk.css",
+    "static/js/789.189a8e3b.chunk.js": "/apollo-trading/static/js/789.189a8e3b.chunk.js",
     "static/js/872.8a8af1d1.chunk.js": "/apollo-trading/static/js/872.8a8af1d1.chunk.js",
     "static/media/Montserrat-Bold.ttf": "/apollo-trading/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
     "static/media/Montserrat-Light.ttf": "/apollo-trading/static/media/Montserrat-Light.7179b7d2ac9b599db5f9.ttf",
@@ -15,7 +15,7 @@
     "index.html": "/apollo-trading/index.html"
   },
   "entrypoints": [
-    "static/css/main.4472c161.css",
-    "static/js/main.6075ee6b.js"
+    "static/css/main.df1e538f.css",
+    "static/js/main.de11e078.js"
   ]
 }
