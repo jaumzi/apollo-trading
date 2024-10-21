@@ -1,0 +1,12 @@
+.footer-container {
+  max-height: 800px;
+
+  h4 {
+    z-index: 1;
+  }
+
+  img {
+    z-index: 0;
+    filter: brightness(0.5);
+  }
+}
