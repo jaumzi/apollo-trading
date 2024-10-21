@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/apollo-trading/static/css/main.4472c161.css",
-    "main.js": "/apollo-trading/static/js/main.a70c0f20.js",
+    "main.js": "/apollo-trading/static/js/main.6075ee6b.js",
     "static/js/206.47f6cfd0.chunk.js": "/apollo-trading/static/js/206.47f6cfd0.chunk.js",
     "static/css/789.ad2cddc3.chunk.css": "/apollo-trading/static/css/789.ad2cddc3.chunk.css",
     "static/js/789.86162dc1.chunk.js": "/apollo-trading/static/js/789.86162dc1.chunk.js",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.4472c161.css",
-    "static/js/main.a70c0f20.js"
+    "static/js/main.6075ee6b.js"
   ]
 }
